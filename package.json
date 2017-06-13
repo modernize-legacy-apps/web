@@ -1,0 +1,23 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "Coolstore web UI service using NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modernize-legacy-apps/web.git"
+  },
+  "author": "Thomas Qvarnström",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modernize-legacy-apps/web/issues"
+  },
+  "homepage": "https://github.com/modernize-legacy-apps/web#readme",
+  "dependencies": {
+    "connect": "^3.6.2",
+    "serve-static": "^1.12.3"
+  }
+}
